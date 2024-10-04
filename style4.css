@@ -1,0 +1,226 @@
+.p-container{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    align-items: center;
+    gap: 45%;
+    /* border: 5px solid red; */
+    
+}
+.div-1{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+.div-2{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+#img-1{
+    height: 50px;
+    padding-top: 15px;
+}
+.color{
+    color: tomato;
+}
+
+.for-center{
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: center;
+    /* justify-items: center; */
+}
+
+.p-container-2{
+    background-image: url(./B9A2-Hero-Travel-main/Images/Group\ 13\ \(1\)\ \(1\).png);
+    /* border: 4px solid red; */
+    /* padding: 0; */
+    background-repeat: no-repeat;
+    /* height: 500px; */
+    /* width: 100%; */
+    background-size: 100% 100%;
+    /* background-attachment: fixed; */
+    padding-top: 20%;
+    padding-bottom: 20%;
+    margin-top: 5px;
+    width: 95%;
+    /* align-items: center; */
+    
+    /* border: 3px solid blue; */
+ 
+    
+}
+.c-div-1{
+    /* border: 2px solid red; */
+    width: 50%;
+    margin: auto;
+    
+}
+.c-div-1 > h1{
+    /* border: 1px solid forestgreen; */
+    /* justify-items: center; */
+    width: 50%;
+    margin: auto;
+    color: white;
+}
+.c-div-1 > p{
+    color: white;
+}
+
+.btn{
+    /* border: 1px solid red; */
+    /* justify-items: center; */
+    width: 35%;
+    margin: auto;
+    
+    
+}
+.btn-color{
+    background-color: tomato;
+    color: white;
+}
+.p-container-3{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    margin-top: 35px;
+    gap: 15%;
+    /* border: 1px dotted rebeccapurple; */
+    width: 95%;
+}
+.middle{
+    width: 40%;
+    margin: auto;
+    
+    margin-top: 25px;
+
+}
+.middle-2{
+    width: 60%;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+.for-center-2{
+    /* width: 95%; */
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: center;
+    
+}
+.for-center-3{
+    width: 95%;
+    /* justify-content: center; */
+    /* text-align: center; */
+}
+
+.bg-container{
+    display: grid;
+    grid-template-columns: 49% 49%;
+    justify-content: space-between;
+}
+
+.bg-item-1{
+    background-image: url(./B9A2-Hero-Travel-main/Images/Rectangle\ 5.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    text-align: center;
+    padding: 100px 0;
+    color: white;
+}
+.bg-item-2{
+    background-image: url(./B9A2-Hero-Travel-main/Images/Rectangle\ 8.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    text-align: center;
+    padding: 100px 0;
+    color: white;
+}
+/* -------------------- */
+.bg-container-2{
+    display: grid;
+    grid-template-columns: 25% 50% 20%;
+    justify-content: space-between;
+}
+
+.bg-item-3{
+    background-image: url(./B9A2-Hero-Travel-main/Images/Rectangle\ 5.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    text-align: center;
+    padding: 150px 0;
+    color: white;
+}
+.bg-item-4{
+    background-image: url(./B9A2-Hero-Travel-main/Images/Rectangle\ 8.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    text-align: center;
+    padding: 150px 0;
+    color: white;
+}
+.bg-item-5{
+    background-image: url(./B9A2-Hero-Travel-main/Images/Rectangle\ 8.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    text-align: center;
+    padding: 150px 0;
+    color: white;
+}
+
+/* --------------------------------------- */
+
+.bg-container-3{
+    display: grid;
+    grid-template-columns: 39% 59%;
+    justify-content: space-between;
+}
+
+.bg-item-6{
+    background-image: url(./B9A2-Hero-Travel-main/Images/Rectangle\ 11.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    text-align: center;
+    padding: 100px 0;
+    color: white;
+}
+.bg-item-7{
+    background-image: url(./B9A2-Hero-Travel-main/Images/Rectangle\ 10.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    text-align: center;
+    padding: 100px 0;
+    color: white;
+}
+
+.middle-3{
+    width: 30%;
+    margin: auto;
+    
+    margin-top: 25px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
